@@ -1,0 +1,5 @@
+[
+  ["java.sql.ResultSetMetaData"],
+  ["java.sql.ResultSet","java.sql.ResultSetMetaData"],
+  ["java.sql.PreparedStatement"]
+]
